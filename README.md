@@ -18,17 +18,17 @@
 
 |메인시작화면|결제실패시 피드백하기|검색 및 취소 처리|
 |--|--|--|
-|<img src="https://i.imgur.com/NjunenR.gif" width="250">|<img src="https://i.imgur.com/4viNHyJ.gif" width="250">|<img src="https://i.imgur.com/WbUiyHP.gif" width="250">|
+|<img src="https://i.imgur.com/NjunenR.gif" width="250">|<img src="https://i.imgur.com/4viNHyJ.gif" width="250">|<img src="https://i.imgur.com/R15cPjz.gif" width="250">|
 
 
 |모달 dismiss 처리| 제보하기 | 현 위치 다시 검색 및 여러 마커 중복처리|
 |--|--|--|
-|<img src="https://i.imgur.com/ahvPnRw.gif" width="250">|<img src="https://i.imgur.com/Ipe4tId.gif" width="250">|<img src="https://i.imgur.com/mUEmKJH.gif" width="250">|
+|<img src="https://i.imgur.com/VZa2Cls.gif" width="250">|<img src="https://i.imgur.com/ZJAzxpP.gif" width="250">|<img src="https://i.imgur.com/z2nqnxO.gif" width="250">!|
 
 
-|현위치 이동| Apple Wallet으로 이동 | Webview
+|현위치 이동| Apple Wallet으로 이동 | Webview|
 |--|--|--|
-|<img src="https://i.imgur.com/zAidOJx.gif" width="250">|<img src="https://i.imgur.com/QZHkdSF.gif" width="250">|<img src="https://i.imgur.com/Glqvf80.gif" width="250">|
+|<img src="https://i.imgur.com/zAidOJx.gif" width="250">|<img src="https://i.imgur.com/QZHkdSF.gif" width="250">|<img src="https://i.imgur.com/ZbFDpz1.gif" width="250">|
 
 ---
 
