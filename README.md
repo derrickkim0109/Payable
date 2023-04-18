@@ -26,10 +26,9 @@
 |<img src="https://i.imgur.com/ahvPnRw.gif" width="250">|<img src="https://i.imgur.com/Ipe4tId.gif" width="250">|<img src="https://i.imgur.com/mUEmKJH.gif" width="250">|
 
 
-|현위치 이동| Apple Wallet으로 이동 |
-|--|--|
-|<img src="https://i.imgur.com/zAidOJx.gif" width="250">|<img src="https://i.imgur.com/QZHkdSF.gif" width="250">|
-
+|현위치 이동| Apple Wallet으로 이동 | Webview
+|--|--|--|
+|<img src="https://i.imgur.com/zAidOJx.gif" width="250">|<img src="https://i.imgur.com/QZHkdSF.gif" width="250">|<img src="https://i.imgur.com/Glqvf80.gif" width="250">|
 
 ---
 
