@@ -12,7 +12,6 @@
 ## 🔎 프로젝트 소개
 > 애플페이 출시에 맞춰 애플페이가 가능한 가맹점들을 지도를 통해서 찾을 수 있고 등록할 수 있는 어플리케이션입니다.
 
----
 
 ## 📺 프로젝트 실행화면
 
@@ -30,7 +29,6 @@
 |--|--|--|
 |<img src="https://i.imgur.com/zAidOJx.gif" width="250">|<img src="https://i.imgur.com/QZHkdSF.gif" width="250">|<img src="https://i.imgur.com/ZbFDpz1.gif" width="250">|
 
----
 
 ## 🗂 App 구조
 
@@ -55,7 +53,6 @@
 
 •역할 분리가 명확히 나뉘어 있기 때문에 테스트와 코드를 파악하는데 이점이 있다고 생각하였습니다.
 
----
 
 ## 🚀 트러블슈팅
 [정리 내용](https://github.com/derrickkim0109/Payable/blob/main/image/%EA%B9%80%ED%83%9C%ED%98%84_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4(%EB%93%9C%EB%9E%98%EA%B7%B8%ED%95%A8).pdf)
