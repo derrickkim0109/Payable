@@ -1,6 +1,7 @@
 # Payable (페이어블)
 > 프로젝트 기간 2023.02.06 ~ 2023.03.12    
 개발자 : [iOS- derrick](https://github.com/derrickkim0109), [Backend - Steve](https://github.com/stevejkang)
+앱 스토어 : [앱 스토어 주소](https://apps.apple.com/kr/app/%ED%8E%98%EC%9D%B4%EC%96%B4%EB%B8%94/id6445837586)
 
 # 📋 목차
 - [🔎 프로젝트 소개](#-프로젝트-소개)
