@@ -58,4 +58,4 @@
 ---
 
 ## 🚀 트러블슈팅
-
+[정리 내용](https://github.com/derrickkim0109/Payable/blob/main/image/%EA%B9%80%ED%83%9C%ED%98%84_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4(%EB%93%9C%EB%9E%98%EA%B7%B8%ED%95%A8).pdf)
